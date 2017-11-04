@@ -1,2 +1,3 @@
-# my-portfolio
-This is my professional protfolio
+# Kosho Hoshitsuki's portfolio
+
+This uses AWS and ReactJS
